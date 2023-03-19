@@ -1,0 +1,1 @@
+console.log("Added release.js inside release branch");
